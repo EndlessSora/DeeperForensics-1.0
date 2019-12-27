@@ -51,11 +51,11 @@ using our DeeperForensics-1.0 dataset. Please refer to our [paper]()
 for more information.
 
 ## Installation
-The code of our face manipulation method, DF-VAE, will be open-source. 
+The **code** of our face manipulation method, DF-VAE, will be open-source. 
 Please stay tuned.
 
 ## Downloads
-DeeperForensics-1.0 dataset and the models will be made publicly available 
+DeeperForensics-1.0 **dataset** and the **models** will be made publicly available 
 for non-commercial research purposes. Please stay tuned.
 
 ## Citation
