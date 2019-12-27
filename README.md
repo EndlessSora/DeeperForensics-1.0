@@ -15,7 +15,7 @@ To appear on arXiv.<br>
 ### Data Collection
 We invited 100 paid actors from 26 countries to record the source videos. Our high-quality collected data vary in identities, poses, expressions, emotions, lighting conditions, and 3DMM blendshapes.
 <p align="center">
-  <img src="supports/source.gif">
+  <img height="300" src="supports/source.gif">
 </p>
 
 ### Face Manipulation
