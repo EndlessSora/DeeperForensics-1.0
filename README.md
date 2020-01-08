@@ -65,4 +65,4 @@ If you find this work useful for your research, please cite our paper:
 ```
 ```
 ## Acknowledgments
-This work is supported by SenseTime Group Limited. We gratefully acknowledge the exceptional help from Hao Zhu and Keqiang Sun for source data collection and coordination.
+We gratefully acknowledge the exceptional help from Hao Zhu and Keqiang Sun for source data collection and coordination.
