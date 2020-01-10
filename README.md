@@ -2,7 +2,7 @@
 
 ![firstfigure](supports/first_figure.png)
 
-This repository will provide code, model and data for the following paper：
+This repository will provide code, model and data for the following paper:
 
 **DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection**<br>
 [Liming Jiang](https://liming-jiang.com/),  [Wayne Wu](http://wywu.github.io), [Ren Li](https://liren2515.github.io/page/), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=en)  and [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/)<br>
@@ -63,6 +63,12 @@ for non-commercial research purposes. Please stay tuned.
 ## Citation
 If you find this work useful for your research, please cite our paper:
 ```
+@article{jiang2020deeperforensics10,
+  title={DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection},
+  author={Jiang, Liming and Wu, Wayne and Li, Ren and Qian, Chen and Loy, Chen Change},
+  journal={arXiv preprint arXiv:2001.03024},
+  year={2020}
+}
 ```
 ## Acknowledgments
 We gratefully acknowledge the exceptional help from Hao Zhu and Keqiang Sun for source data collection and coordination.
