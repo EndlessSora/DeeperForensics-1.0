@@ -2,7 +2,7 @@
 
 ![firstfigure](supports/first_figure.png)
 
-This repository will provide code, model and data for the following paper:
+This repository will provide the dataset and code for the following paper:
 
 **DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection**<br>
 [Liming Jiang](https://liming-jiang.com/),  [Ren Li](https://liren2515.github.io/page/), [Wayne Wu](http://wywu.github.io), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=en)  and [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/)<br>
@@ -13,12 +13,28 @@ To appear in CVPR, 2020.<br>
 ![comparison](supports/comparison.png)
 
 ## Updates
+- [05/2020] The [perturbation codes](./perturbation) of DeeperForensics-1.0 are **released**.
+
+- [05/2020] The [dataset](./dataset) of DeeperForensics-1.0 is **released**.
+
 - [02/2020] The [paper](https://arxiv.org/abs/2001.03024) of DeeperForensics-1.0 is accepted by **CVPR 2020**.
 
-## Overview
+## Dataset
+DeeperForensics-1.0 dataset has been made **publicly available** for non-commercial research
+purposes. Please visit the [dataset download and document page](./dataset) for more details.
 
+We plan to host a challenge, [**DeeperForensics Challenge**](https://sense-human.github.io/),
+based on DeeperForensics-1.0 dataset. Thus, the hidden test set will not be released.
+Looking forward to your participation!
+
+## Code
+The code to implement the diverse perturbations in our dataset has been **released**. Please
+see the [perturbation implementation](./perturbation) for more details.
+
+
+## Summary
 ### Data Collection
-We invited 100 paid actors from 26 countries to record the source videos. Our high-quality collected data vary in identities, poses, expressions, emotions, lighting conditions, and 3DMM blendshapes.
+We invite 100 paid actors from 26 countries to record the source videos. Our high-quality collected data vary in identities, poses, expressions, emotions, lighting conditions, and 3DMM blendshapes.
 <p align="center">
   <img height="320" src="supports/source.gif">
 </p>
@@ -42,8 +58,8 @@ Many-to-many (three-to-three) face swapping by a **single** model:
 </p>
 
 ### Real-World Perturbation
-We apply 7 types (transmission errors, compression, *etc.*) of distortions 
-at 5 intensity levels. Some videos are subjected to a mixture of more than 
+We apply 7 types (transmission errors, compression, *etc.*) of distortions
+at 5 intensity levels. Some videos are subjected to a mixture of more than
 one distortion. These perturbations make DeeperForensics-1.0 better simulate
 real-world scenarios.
 <p align="center">
@@ -51,17 +67,10 @@ real-world scenarios.
 </p>
 
 ### Benchmark
-We benchmark five representative open-source forgery detection methods 
-using our DeeperForensics-1.0 dataset. Please refer to our [paper](https://arxiv.org/abs/2001.03024) 
+We benchmark five representative forgery detection methods
+using the DeeperForensics-1.0 dataset. Please refer to our [paper](https://arxiv.org/abs/2001.03024)
 for more information.
 
-## Installation
-The **code** of our face manipulation method, DF-VAE, will be open-source. 
-Please stay tuned.
-
-## Downloads
-DeeperForensics-1.0 **dataset** and the **models** will be made publicly available 
-for non-commercial research purposes. Please stay tuned.
 
 ## Citation
 If you find this work useful for your research, please cite our paper:
@@ -75,4 +84,14 @@ If you find this work useful for your research, please cite our paper:
 ```
 
 ## Acknowledgments
-We gratefully acknowledge the exceptional help from Hao Zhu and Keqiang Sun for source data collection and coordination.
+We gratefully acknowledge the exceptional help from Hao Zhu and Keqiang Sun for their contribution on source data collection and coordination.
+
+## Contact
+If you have any questions, please contact us by sending an email to
+[deeperforensics@gmail.com](mailto:deeperforensics@gmail.com).
+
+## Terms of Use
+The use of DeeperForensics-1.0 is bounded by the [Terms of Use: DeeperForensics-1.0 Dataset](./dataset/Terms_of_Use.pdf). \
+The code is released under the [MIT license](./perturbation/LICENSE.md).
+
+Copyright (c) 2020
