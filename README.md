@@ -2,7 +2,7 @@
 
 ![firstfigure](supports/first_figure.png)
 
-This repository will provide the dataset and code for the following paper:
+This repository provides the dataset and code for the following paper:
 
 **DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection**<br>
 [Liming Jiang](https://liming-jiang.com/),  [Ren Li](https://liren2515.github.io/page/), [Wayne Wu](http://wywu.github.io), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=en)  and [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/)<br>
