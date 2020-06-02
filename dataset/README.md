@@ -59,7 +59,7 @@ contact us by sending an email to [deeperforensics@gmail.com](mailto:deeperforen
 
 
 ## Dataset Structure
-After you download all the files, simply run the script provided in the dataset root:
+After you download all the files, simply run the script (bash version >= 4) provided in the dataset root:
 ```bash
 bash unzip.sh
 ```
