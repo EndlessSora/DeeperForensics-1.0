@@ -63,7 +63,7 @@ After you download all the files, simply run the script (bash version >= 4) prov
 ```bash
 bash unzip.sh
 ```
-It may take a few minutes / hours. After unzipping the files, you will get all the data
+or manually unzip all the files. It may take a few minutes / hours. After unzipping the files, you will get all the data
 in the following folder structure:
 ```
 DeeperForensics-1.0
