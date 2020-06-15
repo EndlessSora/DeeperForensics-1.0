@@ -281,7 +281,7 @@ corresponding the **'real'** videos (_i.e._, [target videos](#target-videos)) us
     the frame to crop our corresponding [manipulated videos](#manipulated-videos) to avoid poor face detection
     accuracy.
     - Our dataset also features a 'hidden test set', while the hidden test set will not be
-    released. Because we plan to host a challenge, [**DeeperForensics Challenge**](https://competitions.codalab.org/competitions/25228),
+    released. Because we plan to host a challenge, **DeeperForensics Challenge**,
     based on our dataset. Looking forward to your participation!
     - Our face forgery detection methods may be released later (while some are already open-source).
 
