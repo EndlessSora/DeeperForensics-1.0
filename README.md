@@ -23,7 +23,7 @@ To appear in CVPR, 2020.<br>
 DeeperForensics-1.0 dataset has been made **publicly available** for non-commercial research
 purposes. Please visit the [dataset download and document page](./dataset) for more details.
 
-We plan to host a challenge, [**DeeperForensics Challenge**](https://sense-human.github.io/),
+We plan to host a challenge, [**DeeperForensics Challenge**](https://competitions.codalab.org/competitions/25228),
 based on DeeperForensics-1.0 dataset. Thus, the hidden test set will not be released.
 Looking forward to your participation!
 
