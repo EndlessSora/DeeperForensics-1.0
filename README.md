@@ -22,6 +22,8 @@ In CVPR 2020.<br>
 ## Dataset
 DeeperForensics-1.0 dataset has been made **publicly available** for non-commercial research
 purposes. Please visit the [dataset download and document page](./dataset) for more details.
+Before using DeeperForensics-1.0 dataset for face forgery detection model training,
+please read these [important tips](./dataset/README.md#target-videos) first.
 
 We plan to host a challenge, **DeeperForensics Challenge**,
 based on DeeperForensics-1.0 dataset. Thus, the hidden test set will not be released.
