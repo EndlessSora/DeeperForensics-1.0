@@ -21,6 +21,9 @@ In CVPR 2020.<br>
 
 - [02/2020] The [paper](https://arxiv.org/abs/2001.03024) of DeeperForensics-1.0 is accepted by **CVPR 2020**.
 
+## Competition
+:fire::fire: We are now hosting [**DeeperForensics Challenge 2020**](https://competitions.codalab.org/competitions/25228) based on the DeeperForensics-1.0 dataset. The challenge has officially started at the [ECCV 2020 SenseHuman Workshop](https://sense-human.github.io/). [Registration](https://competitions.codalab.org/competitions/25228#participate) is still open. If you are interested in soliciting new ideas to advance the state of the art in real-world face forgery detection, we look forward to your participation!
+
 ## Dataset
 DeeperForensics-1.0 dataset has been made **publicly available** for non-commercial research
 purposes. Please visit the [dataset download and document page](./dataset) for more details.
@@ -30,9 +33,6 @@ please read these [important tips](./dataset/README.md#target-videos) first.
 ## Code
 The code to implement the diverse perturbations in our dataset has been **released**. Please
 see the [perturbation implementation](./perturbation) for more details.
-
-## Competition
-We host [**DeeperForensics Challenge 2020**](https://competitions.codalab.org/competitions/25228) based on the DeeperForensics-1.0 dataset. The challenge will officially start together with [ECCV 2020 SenseHuman Workshop](https://sense-human.github.io/). [Registration](https://competitions.codalab.org/competitions/25228#participate) is now open. If you are interested in soliciting new ideas to advance the state of the art in real-world face forgery detection, we look forward to your participation!
 
 ## Summary
 ### Data Collection
