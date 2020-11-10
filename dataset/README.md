@@ -285,7 +285,7 @@ corresponding the **'real'** videos (_i.e._, [target videos](#target-videos)) us
     based on our dataset. Looking forward to your participation!
     - Our face forgery detection methods may be released later (while some are already open-source).
 
-  The video number ratio of our splits for training, validation and testing is 703 : 96 : 21.
+  The video number ratio of our splits for training, validation and testing is 703 : 96 : 201.
   The swapped source identity ratio is 71 : 9 : 20.
 
   If you are interested in finding a new setting
