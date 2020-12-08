@@ -78,8 +78,8 @@ for more information.
 If you find this work useful for your research, please cite our paper:
 
 ```
-@inproceedings{jiang2020deeperforensics10,
-  title={DeeperForensics-1.0: A Large-Scale Dataset for Real-World Face Forgery Detection},
+@inproceedings{jiang2020deeperforensics1,
+  title={{DeeperForensics-1.0}: A Large-Scale Dataset for Real-World Face Forgery Detection},
   author={Jiang, Liming and Li, Ren and Wu, Wayne and Qian, Chen and Loy, Chen Change},
   booktitle={CVPR},
   year={2020}
