@@ -28,7 +28,7 @@ conda activate ptb
 Finally, clone our repo and install other dependencies via pip:
 ```bash
 git clone https://github.com/EndlessSora/DeeperForensics-1.0.git
-cd perturbation/
+cd DeeperForensics-1.0/perturbation/
 pip install -r requirements.txt
 ```
 
