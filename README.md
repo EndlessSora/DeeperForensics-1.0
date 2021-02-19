@@ -13,6 +13,8 @@ In CVPR 2020.<br>
 ![comparison](supports/comparison.png)
 
 ## Updates
+- [02/2021] The [technical report](https://arxiv.org/abs/2102.09471) of DeeperForensics Challenge 2020 is released on arXiv.
+
 - [08/2020] The [**DeeperForensics Challenge 2020**](https://competitions.codalab.org/competitions/25228) starts together with [ECCV 2020 SenseHuman Workshop](https://sense-human.github.io/).
 
 - [05/2020] The [perturbation codes](./perturbation) of DeeperForensics-1.0 are **released**.
@@ -32,7 +34,9 @@ The code to implement the diverse perturbations in our dataset has been **releas
 see the [perturbation implementation](./perturbation) for more details.
 
 ## Competition
-We have hosted [**DeeperForensics Challenge 2020**](https://competitions.codalab.org/competitions/25228) based on the DeeperForensics-1.0 dataset. The challenge officially starts at the [ECCV 2020 SenseHuman Workshop](https://sense-human.github.io/). The prizes of the challenge are a total of $15,000 ([AWS](https://aws.amazon.com/) promotion code). If you are interested in soliciting new ideas to advance state of the art in real-world face forgery detection, we look forward to your participation!
+We have hosted [**DeeperForensics Challenge 2020**](https://competitions.codalab.org/competitions/25228) based on the DeeperForensics-1.0 dataset. The challenge officially starts at the [ECCV 2020 SenseHuman Workshop](https://sense-human.github.io/). The prizes of the challenge are a total of $15,000 ([AWS](https://aws.amazon.com/) promotional code). If you are interested in soliciting new ideas to advance state of the art in real-world face forgery detection, we look forward to your participation!
+
+The [technical report](https://arxiv.org/abs/2102.09471) of DeeperForensics Challenge 2020 has been released on arXiv.
 
 ## Summary
 ### Data Collection
@@ -75,7 +79,7 @@ for more information.
 
 
 ## Citation
-If you find this work useful for your research, please cite our paper:
+If you find this work useful for your research, please cite our papers:
 
 ```
 @inproceedings{jiang2020deeperforensics1,
@@ -83,6 +87,16 @@ If you find this work useful for your research, please cite our paper:
   author={Jiang, Liming and Li, Ren and Wu, Wayne and Qian, Chen and Loy, Chen Change},
   booktitle={CVPR},
   year={2020}
+}
+```
+
+```
+@article{jiang2021dfc20,
+  title={{DeeperForensics Challenge 2020} on Real-World Face Forgery Detection: Methods and Results},
+  author={Jiang, Liming and Guo, Zhengkui and Wu, Wayne and Liu, Zhaoyang and Liu, Ziwei and Loy, Chen Change and Yang, Shuo and Xiong, Yuanjun and Xia, Wei and Chen, Baoying and Zhuang, Peiyu and Li, Sili and Chen, Shen and Yao, Taiping and Ding, Shouhong and Li, Jilin and Huang, Feiyue and Cao, Liujuan and Ji, Rongrong and Lu, Changlei and Tan, Ganchao},
+  journal={arXiv preprint},
+  volume={arXiv:2102.09471},
+  year={2021}
 }
 ```
 
