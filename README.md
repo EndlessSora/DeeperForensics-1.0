@@ -15,7 +15,7 @@ In CVPR 2020.<br>
 ## Updates
 - [02/2021] The [technical report](https://arxiv.org/abs/2102.09471) of DeeperForensics Challenge 2020 is released on arXiv.
 
-- [08/2020] The [**DeeperForensics Challenge 2020**](https://competitions.codalab.org/competitions/25228) starts together with [ECCV 2020 SenseHuman Workshop](https://sense-human.github.io/).
+- [08/2020] The [**DeeperForensics Challenge 2020**](https://competitions.codalab.org/competitions/25228) starts together with [ECCV 2020 SenseHuman Workshop](https://sense-human.github.io/index_2020.html).
 
 - [05/2020] The [perturbation codes](./perturbation) of DeeperForensics-1.0 are **released**.
 
@@ -34,7 +34,7 @@ The code to implement the diverse perturbations in our dataset has been **releas
 see the [perturbation implementation](./perturbation) for more details.
 
 ## Competition
-We have hosted [**DeeperForensics Challenge 2020**](https://competitions.codalab.org/competitions/25228) based on the DeeperForensics-1.0 dataset. The challenge officially starts at the [ECCV 2020 SenseHuman Workshop](https://sense-human.github.io/). The prizes of the challenge are a total of $15,000 ([AWS](https://aws.amazon.com/) promotional code). If you are interested in soliciting new ideas to advance state of the art in real-world face forgery detection, we look forward to your participation!
+We have hosted [**DeeperForensics Challenge 2020**](https://competitions.codalab.org/competitions/25228) based on the DeeperForensics-1.0 dataset. The challenge officially starts at the [ECCV 2020 SenseHuman Workshop](https://sense-human.github.io/index_2020.html). The prizes of the challenge are a total of $15,000 ([AWS](https://aws.amazon.com/) promotional code). If you are interested in soliciting new ideas to advance state of the art in real-world face forgery detection, we look forward to your participation!
 
 The [technical report](https://arxiv.org/abs/2102.09471) of DeeperForensics Challenge 2020 has been released on arXiv.
 
